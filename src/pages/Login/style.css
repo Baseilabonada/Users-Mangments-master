@@ -1,0 +1,12 @@
+nav {
+  background-color: #53473d;
+  padding: 16px 32px;
+}
+nav a {
+  margin-right: 16px;
+  color: antiquewhite;
+}
+nav a.active {
+  text-decoration: none;
+  font-weight: bold;
+}
